@@ -1,0 +1,67 @@
+@font-face{
+    font-family: "supreme";
+    src: url(res/FuturaStd-ExtraBoldOblique.otf);
+}
+
+html, body, #container{
+    height: 100%;
+}
+
+body{
+    padding: 0%;
+    margin: 0px;
+}
+
+#container{
+    overflow: auto;
+    background: url("res/background.png");
+    background-size: cover;
+}
+
+#header{
+    display: flex;
+    font-family: 'supreme';
+    justify-content: center;
+    color: white;
+    font-size: 48px;
+    cursor: default;
+}
+
+#offer{
+    display: flex;
+    font-family: 'supreme';
+    justify-content: center;
+    color: white;
+    font-size: 24px;
+    cursor: default;
+}
+
+#buttonContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+#button{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    font-family: 'supreme';
+    justify-content: center;
+    color: white;
+    font-size: 48px;
+    cursor: pointer;
+}
+
+#button:hover{
+    transform: scale(1.1);
+    background: red;
+    transition: all 0.2s ease-out;
+}
+
+h1{
+    background-color: red;
+    padding: 10px;
+}
+

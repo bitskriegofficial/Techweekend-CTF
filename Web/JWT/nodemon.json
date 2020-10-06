@@ -1,0 +1,6 @@
+{
+	"env": {
+		"JWT_KEY": "qwerty",
+		"FLAG": "TECHWKND{JWTT0K3N_CR4CK3D_G00D_1337}"
+	}
+}

@@ -1,0 +1,5 @@
+Our spies have intercepted a secret message but later it was found that a part of the message was corrupted, ‘$’ sign in place of the original characters. Can you decode this?
+
+C M3 $ III $ 8 8 11 4 13 1 bq cr di ej kw mt os px uz gh , wxsskmuolpnj
+
+TECHWKND{//decoded message goes here//} 
